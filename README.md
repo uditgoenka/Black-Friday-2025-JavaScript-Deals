@@ -58,6 +58,12 @@
 
 |     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
+| 1  | [CrowdStrike](https://www.crowdstrike.com/en-us/cyber-monday-cybersecurity-deals/) | Industry-leading cloud-native cybersecurity platform offering AI-powered threat detection, endpoint protection, and breach prevention — trusted by enterprises and dev teams alike. | Up to 70% OFF | 28-Nov – 1-Dec |
+| 2  | [Cloudways by DigitalOcean](https://www.cloudways.com/en/promo-code.php) | Simple, developer-friendly cloud hosting platform ideal for digital agencies, eCommerce stores, or online businesses. Powered by DigitalOcean. | 50% OFF for 3 months | Limited-time offer |
+| 3  | [Hostinger](https://www.hostinger.com/) | Reliable, high-performance hosting supporting Git, Node.js, PHP, and managed WordPress. Perfect for portfolios, landing pages, and modern web apps. | Up to 85% OFF | Now – |
+| 4  | [Liquid Web](https://www.liquidweb.com/black-friday-web-hosting-deals/) | Premium managed hosting for mission-critical apps. Offers VPS, dedicated, and cloud hosting with excellent scalability and performance. | Up to 52% OFF | Now – 5-Dec |
+| 5  | [CloudClusters](https://www.cloudclusters.io/black-friday-hosting-deals) | Managed cloud hosting for web apps and databases with support for Node.js, MongoDB, and MySQL. Combines performance with affordability. | Up to 64% OFF | Now – 1-Dec |
+| 6  | [SurferCloud](https://www.surfercloud.com/promos/blackfriday) | Fast and reliable cloud hosting built for developers deploying Jamstack sites, APIs, and scalable web apps. | Up to 40% OFF | Now – |
 
 
 ## 🌐 Web Optimization & Monitoring
@@ -68,6 +74,8 @@
 | 2  | [Super Monitoring](https://www.supermonitoring.com/) | Tracks uptime, speed, SSL, SEO block issues, and more. | 50% OFF with `SUPERBLACK25` | 24-Nov – 5-Dec |
 | 3  | [Plerdy](https://www.plerdy.com/) | All-in-one CRO & SEO toolkit: heatmaps, analytics, popup forms, etc. | 50% OFF with `plerdyBF2025` | Now – 3-Dec |
 | 4  | [Scalenut](https://www.scalenut.com/) | AI SEO platform for keyword planning, content writing, and optimization. | 60% OFF with `SCALE60BF` | 15-Nov – 1-Dec |
+| 5  | [NitroPack](https://www.marketing.nitropack.io/black-friday) | All-in-one performance optimization platform improving Core Web Vitals, page speed, and SEO. Handles caching, minification, lazy loading, and image optimization seamlessly. | Up to 30% OFF with `CYBERMONTH2025` or `CYBERYEAR2025` | 12-Nov – 7-Dec |
+| 6  | [StatusGator](https://statusgator.com/) | Unified status monitoring tool that aggregates the uptime of all your cloud services in one dashboard. Perfect for tracking outages and downtime across your stack. | 20% OFF monthly and annual Starter plans with `BLACKFRIDAY2025` | 2-Nov – 2-Dec |
 
 ## 🤖 AI Tools
 
@@ -86,6 +94,9 @@
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
 | 1  | [React – The Road to Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise/javascript?discount_coupon=BLACKFRIDAY) | Advanced design patterns for large-scale React apps. | 50% OFF with `BLACKFRIDAY` | Now – |
 | 2  | [The Missing Book to Understand Indexes](https://sqlfordevs.com/books+courses/indexing) | Learn practical strategies to optimize SQL indexes. | 50% OFF | Now – |
+| 3  | [The CloudSec Engineer](https://engineer.cloudsecbooks.com/) | A practical guide by Marco Lancini on entering and excelling in the Cloud Security industry. | 40% OFF with code `CYBERNOVEMBER25` | Now – |
+| 4  | [Vue – The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | A deep dive into enterprise-level Vue development covering architecture, scalability, and best practices for building maintainable, large-scale Vue apps. | 50% OFF with code `BLACKFRIDAY` | Now – |
+| 5  | [Beyond Code](https://twostraws.gumroad.com/l/beyondcode/blackfriday25) | Written by Paul Hudson (of *Hacking with Swift*), this book explores everything beyond programming — from personal branding and product launches to growing your impact as a developer. Ideal for freelancers and indie makers. | 50% OFF | Now – |
 
 ## 🎓 Courses
 
@@ -95,6 +106,7 @@
 | 2  | [Vue Mastery](https://www.vuemastery.com/black-friday/) | High-quality Vue courses taught by industry leaders including Evan You. | To be announced | – |
 | 3  | [Mastering Pinia](https://masteringpinia.com/#pricing) | Full deep dive into Vue’s official state management library. Included with Vue School’s Black Friday offer. | - | Now – |
 | 4  | [LabEx](https://labex.io/) | Interactive labs for DevOps, Linux, and Cybersecurity. | 50% OFF (2 yr `2025BF50`), 30% OFF (1 yr `2025BF30`) | 12-Nov – 1-Dec |
+| 5  | [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) | Hands-on DevSecOps training and certification with 100+ guided lab exercises in real-world environments. | 15% OFF all certificates, up to \$500 OFF bundles | Now – |
 
 ---
 
